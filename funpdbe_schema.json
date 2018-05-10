@@ -23,7 +23,7 @@
     "release_date": {
       "type": "string",
       "description": "Release date of the annotation",
-      "pattern": "^[0-3][0-9]/[0-1][0-9]/[1-2][0-9]{3}$"
+      "pattern": "^[0-3]*[0-9]/[0-1]*[0-9]/[1-2][0-9]{3}$"
     },
     "pdb_id": {
       "type": "string",
@@ -151,7 +151,7 @@
           "source_release_date": {
             "type": "string",
             "description": "Date of acquiring data from source",
-            "pattern": "^[0-3][0-9]/[0-1][0-9]/[1-2][0-9]{3}$"
+            "pattern": "^[0-3]*[0-9]/[0-1]*[0-9]/[1-2][0-9]{3}$"
           }
         },
         "required": [
