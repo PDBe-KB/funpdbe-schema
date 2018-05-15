@@ -32,7 +32,8 @@
       "label": "ligand_binding_site",
       "source_database": "pdb",
       "source_accession": "1abc",
-      "source_release_date": "01/01/2017"
+      "source_release_date": "01/01/2017",
+      "additional_site_annotations": {}
     }
   ],
   "additional_entry_annotations": {},

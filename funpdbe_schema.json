@@ -152,6 +152,10 @@
             "type": "string",
             "description": "Date of acquiring data from source",
             "pattern": "^[0-3]*[0-9]/[0-1]*[0-9]/[1-2][0-9]{3}$"
+          },
+          "additional_site_annotations": {
+            "type": "object",
+            "description": "Additional site-level annotations"
           }
         },
         "required": [

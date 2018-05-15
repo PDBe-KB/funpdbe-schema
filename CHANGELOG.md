@@ -16,3 +16,4 @@ Changelog
 * 25/04/2018 - "chains.residues.site_data.confidence_classification is enum of ["high", "medium", "low", "null"]
 * 10/05/2018 - "release_date" has pattern "^[0-3]*[0-9]/[0-1]*[0-9]/[1-2][0-9]{3}$"
 * 10/05/2018 - "sites.source_release_date" has pattern "^[0-3]*[0-9]/[0-1]*[0-9]/[1-2][0-9]{3}$"
+* 15/05/2018 - "additional_site_annotations" added to "sites"
