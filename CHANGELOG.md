@@ -17,3 +17,4 @@ Changelog
 * 10/05/2018 - "release_date" has pattern "^[0-3]*[0-9]/[0-1]*[0-9]/[1-2][0-9]{3}$"
 * 10/05/2018 - "sites.source_release_date" has pattern "^[0-3]*[0-9]/[0-1]*[0-9]/[1-2][0-9]{3}$"
 * 15/05/2018 - "additional_site_annotations" added to "sites"
+* 04/06/2018 - "sites" is required (site_data was already referencing it)

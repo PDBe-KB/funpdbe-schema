@@ -197,7 +197,8 @@
     "data_resource",
     "pdb_id",
     "chains",
-    "evidence_code_ontology"
+    "evidence_code_ontology",
+    "sites"
   ],
   "additionalProperties": false
 }
