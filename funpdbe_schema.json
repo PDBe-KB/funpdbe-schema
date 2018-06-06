@@ -28,7 +28,7 @@
     "pdb_id": {
       "type": "string",
       "description": "PDB identifier",
-      "pattern": "^[0-9][a-z][a-z0-9]{2}$"
+      "pattern": "^[1-9][a-zA-Z0-9]{3}$"
     },
     "additional_entry_annotations": {
       "type": "object",
