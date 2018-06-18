@@ -59,7 +59,7 @@
                 "aa_type": {
                   "type": "string",
                   "description": "Three-letter amino acid code",
-                  "pattern": "^[A-Z]{3}$"
+                  "pattern": "^[A-Za-z0-9]+$"
                 },
                 "additional_residue_annotations": {
                   "type": "object",
