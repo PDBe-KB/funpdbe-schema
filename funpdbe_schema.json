@@ -160,9 +160,7 @@
         },
         "required": [
           "site_id",
-          "label",
-          "source_database",
-          "source_accession"
+          "label"
         ],
         "additionalProperties": false
       },

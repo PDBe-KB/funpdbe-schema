@@ -20,3 +20,5 @@ Changelog
 * 04/06/2018 - "sites" is required (site_data was already referencing it)
 * 06/06/2018 - "pdb_id" has pattern "^[1-9][a-zA-Z0-9]{3}$"
 * 18/06/2018 - "chains.residues.aa_type" has pattern "^[A-Za-z0-9]+$"
+* 19/07/2018 - "source_database" is optional
+* 19/07/2018 - "source_accession" is optional
