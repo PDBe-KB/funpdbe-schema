@@ -23,13 +23,11 @@ The file funpdbe_example.json is an example of a JSON file with data in a format
 
 ## Versioning
 
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/funpdbe-consortium/funpdbe-client/tags).
+We use [SemVer](http://semver.org/) for versioning. For the versions available, see the tags.
 
 ## Authors
 
-* **Mihaly Varadi** - *Initial work* - [mvaradi](https://github.com/mvaradi)
-
-See also the list of [contributors](https://github.com/funpdbe-consortium/funpdbe-schema/graphs/contributors) who participated in this project.
+* **Mihaly Varadi** - *Initial work* - [mvaradi](https://gitlab.ebi.ac.uk/mvaradi)
 
 ## License
 
