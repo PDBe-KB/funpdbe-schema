@@ -80,9 +80,8 @@
                       },
                       "confidence_score": {
                         "type": "number",
-                        "description": "Confidence level of the annotation (0-1)",
-                        "minimum": 0.0,
-                        "maximum": 1.0
+                        "description": "Confidence level of the annotation (0-1, except if the method justifies otherwise)",
+                        "minimum": 0.0
                       },
                       "confidence_classification": {
                         "type": "string",

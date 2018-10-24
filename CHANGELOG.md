@@ -22,3 +22,4 @@ Changelog
 * 18/06/2018 - "chains.residues.aa_type" has pattern "^[A-Za-z0-9]+$"
 * 19/07/2018 - "source_database" is optional
 * 19/07/2018 - "source_accession" is optional
+* 24/10/2018 - "confidence_score" can be greater than 1.0, if the calculation method justifies it
