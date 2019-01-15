@@ -90,14 +90,13 @@
                           "high",
                           "medium",
                           "low",
-                          "null"
+                          "null",
+                          "curated"
                         ]
                       }
                     },
                     "required": [
                       "site_id_ref",
-                      "raw_score",
-                      "confidence_score",
                       "confidence_classification"
                     ],
                     "additionalProperties": false
