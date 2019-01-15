@@ -23,6 +23,7 @@ Changelog
 * 19/07/2018 - "source_database" is optional
 * 19/07/2018 - "source_accession" is optional
 * 24/10/2018 - "confidence_score" can be greater than 1.0, if the calculation method justifies it
-* 15/01/2018 - "confidence_score" is optional - curated annotations don't have confidence score
-* 15/01/2018 - "raw_score" is optional - curated annotations don't have raw scores
-* 15/01/2018 - "curated" added to "confidence_classification" enumeration list
+* 15/01/2019 - "confidence_score" is optional - curated annotations don't have confidence score
+* 15/01/2019 - "raw_score" is optional - curated annotations don't have raw scores
+* 15/01/2019 - "curated" added to "confidence_classification" enumeration list
+* 15/01/2019 - allow additional annotations fields
