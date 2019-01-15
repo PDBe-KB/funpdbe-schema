@@ -32,7 +32,8 @@
     },
     "additional_entry_annotations": {
       "type": "object",
-      "description": "Additional entry-level annotations"
+      "description": "Additional entry-level annotations",
+      "additionalProperties": true
     },
     "chains": {
       "type": "array",
@@ -45,7 +46,8 @@
           },
           "additional_chain_annotations": {
             "type": "object",
-            "description": "Additional chain-level annotations"
+            "description": "Additional chain-level annotations",
+            "additionalProperties": true
           },
           "residues": {
             "type": "array",
@@ -63,7 +65,8 @@
                 },
                 "additional_residue_annotations": {
                   "type": "object",
-                  "description": "Additional residue-level annotations"
+                  "description": "Additional residue-level annotations",
+                  "additionalProperties": true
                 },
                 "site_data": {
                   "type": "array",
@@ -153,7 +156,8 @@
           },
           "additional_site_annotations": {
             "type": "object",
-            "description": "Additional site-level annotations"
+            "description": "Additional site-level annotations",
+            "additionalProperties": true
           }
         },
         "required": [
