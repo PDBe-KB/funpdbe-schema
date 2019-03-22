@@ -27,3 +27,4 @@ Changelog
 * 15/01/2019 - "raw_score" is optional - curated annotations don't have raw scores
 * 15/01/2019 - "curated" added to "confidence_classification" enumeration list
 * 15/01/2019 - allow additional annotations fields
+* 22/03/2019 - "aa_variant" is an optional field in "site_data" for mutations/variants

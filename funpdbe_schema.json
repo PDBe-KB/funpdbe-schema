@@ -96,6 +96,11 @@
                           "null",
                           "curated"
                         ]
+                      },
+                      "aa_variant": {
+                        "type": "string",
+                        "description": "Three-letter amino acid code of variant/mutant",
+                        "pattern": "^[A-Za-z0-9]+$"
                       }
                     },
                     "required": [
