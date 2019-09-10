@@ -28,3 +28,4 @@ Changelog
 * 15/01/2019 - "curated" added to "confidence_classification" enumeration list
 * 15/01/2019 - allow additional annotations fields
 * 22/03/2019 - "aa_variant" is an optional field in "site_data" for mutations/variants
+* 10/09/2019 - "site_url" is an optional field in "sites" for linking directly to site information

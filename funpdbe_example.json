@@ -30,6 +30,7 @@
     {
       "site_id": 1,
       "label": "ligand_binding_site",
+      "site_url": "https://myresource/pdb/1cbs/1",
       "source_database": "pdb",
       "source_accession": "1abc",
       "source_release_date": "01/01/2017",

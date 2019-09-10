@@ -146,6 +146,10 @@
             "type": "string",
             "description": "Site label"
           },
+          "site_url": {
+            "type": "string",
+            "description": "URL linking to information on the functional site at the partner resource"
+          },
           "source_database": {
             "type": "string",
             "description": "Name of the source database"
