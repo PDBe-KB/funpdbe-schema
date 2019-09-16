@@ -34,6 +34,7 @@
       "source_database": "pdb",
       "source_accession": "1abc",
       "source_release_date": "01/01/2017",
+      "source_version": "1.0.2",
       "additional_site_annotations": {}
     }
   ],

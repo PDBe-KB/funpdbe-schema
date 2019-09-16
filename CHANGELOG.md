@@ -29,3 +29,4 @@ Changelog
 * 15/01/2019 - allow additional annotations fields
 * 22/03/2019 - "aa_variant" is an optional field in "site_data" for mutations/variants
 * 10/09/2019 - "site_url" is an optional field in "sites" for linking directly to site information
+* 16/09/2019 - "source_version" is an optional field for the version of data which was used to derive annotations
