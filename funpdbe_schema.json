@@ -20,6 +20,14 @@
       "type": "string",
       "description": "URL linking to the entry at the partner resource"
     },
+    "model_coordinates_url": {
+      "type": "string",
+      "description": "URL linking to a structural model at the partner resource"
+    },
+    "includes_het_groups": {
+      "type": "boolean",
+      "description": "Does this JSON include annotations of HET residues"
+    },
     "release_date": {
       "type": "string",
       "description": "Release date of the annotation",

@@ -3,8 +3,10 @@
   "resource_version": "1.0.0",
   "software_version": "1.0.0",
   "resource_entry_url": "https://partnerdb.org/0001",
+  "model_coordinates_url": "https://partnerdb.org/model-0001.mmcif",
   "release_date": "10/10/2010",
   "pdb_id": "1abc",
+  "includes_het_groups": true,
   "chains": [
     {
       "chain_label": "A",

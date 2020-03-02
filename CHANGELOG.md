@@ -30,3 +30,5 @@ Changelog
 * 22/03/2019 - "aa_variant" is an optional field in "site_data" for mutations/variants
 * 10/09/2019 - "site_url" is an optional field in "sites" for linking directly to site information
 * 16/09/2019 - "source_version" is an optional field for the version of data which was used to derive annotations
+* 02/03/2020 - "model_coordinates_url" is an optional URL field for providing structural models which the annotations are based on
+* 02/03/2020 - "includes_het_groups" is an optional boolean (true/false) field to indicate if the entry contains annotations for HET groups
