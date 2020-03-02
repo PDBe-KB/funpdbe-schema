@@ -64,7 +64,7 @@
               "properties": {
                 "pdb_res_label": {
                   "type": "string",
-                  "description": "Residue index from the related PDB entry"
+                  "description": "Author residue index from the corresponding PDB entry (a.k.a. auth_seq_id)"
                 },
                 "aa_type": {
                   "type": "string",
