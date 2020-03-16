@@ -32,3 +32,4 @@ Changelog
 * 16/09/2019 - "source_version" is an optional field for the version of data which was used to derive annotations
 * 02/03/2020 - "model_coordinates_url" is an optional URL field for providing structural models which the annotations are based on
 * 02/03/2020 - "includes_het_groups" is an optional boolean (true/false) field to indicate if the entry contains annotations for HET groups
+* 16/03/2020 - "aa_variant_causes" is an optional string field for recording the specific effect of a variant
