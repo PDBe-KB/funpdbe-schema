@@ -109,6 +109,10 @@
                         "type": "string",
                         "description": "Three-letter amino acid code of variant/mutant",
                         "pattern": "^[A-Za-z0-9]+$"
+                      },
+                      "aa_variant_causes": {
+                        "type": "string",
+                        "description": "The reason behind classifying a variant benign or damaging"
                       }
                     },
                     "required": [
