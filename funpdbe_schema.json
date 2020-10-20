@@ -89,6 +89,10 @@
                         "type": "number",
                         "description": "Raw calculated score"
                       },
+                      "raw_score_unit": {
+                        "type": "string",
+                        "description": "The measurement unit of the raw score, if applicable"
+                      },
                       "confidence_score": {
                         "type": "number",
                         "description": "Confidence level of the annotation (0-1, except if the method justifies otherwise)",

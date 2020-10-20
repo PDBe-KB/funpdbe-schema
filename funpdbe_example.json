@@ -20,6 +20,7 @@
             {
               "site_id_ref": 1,
               "raw_score": 0.7,
+              "raw_score_unit": "A",
               "confidence_score": 0.9,
               "confidence_classification": "high"
             }
