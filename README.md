@@ -1,5 +1,8 @@
 FunPDBe Data Exchange Format (JSON Schema)
 =====
+[![Build Status](https://travis-ci.com/PDBe-KB/funpdbe-schema.svg?branch=master)](https://travis-ci.com/PDBe-KB/funpdbe-schema)
+[![codecov](https://codecov.io/gh/PDBe-KB/funpdbe-schema/branch/master/graph/badge.svg?token=EOQT5D0I49)](https://codecov.io/gh/PDBe-KB/funpdbe-schema)
+[![Maintainability](https://api.codeclimate.com/v1/badges/9da3c56481123d4f9225/maintainability)](https://codeclimate.com/github/PDBe-KB/funpdbe-schema/maintainability)
 
 This is the repository of the FunPDBe JSON Schema
 
@@ -10,6 +13,19 @@ There are two main files:
 
 * funpdbe_schema.json
 * funpdbe_example.json
+
+There is also a very basic JSON validator that shows how to validate a JSON file against the schema:
+
+```
+# install dependencies
+pip install -r requirements.txt
+
+# run the validator
+cd basic_validator
+python3 basic_validator/basic_validator.py path/to/schema.json path/to/json/file.json
+```
+
+This will run a simple validation, using the jsonschema package. It will use the schema from the path "path/to/schema.json" and validate the json at the path "path/to/example.json" against it.
 
 Schema
 ------
