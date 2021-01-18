@@ -1,0 +1,10 @@
+language: python
+python:
+    - 3.7
+install:
+  - pip install codecov
+  - pip install pytest-cov
+script:
+  - pytest tests --cov=basic_validator
+after_success:
+  - codecov
